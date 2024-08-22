@@ -18,7 +18,7 @@ td.toc-entry-col2 {background:#fafafa;}</style>
 
 <div id="bp_toc">
 </div>
-<script src="https://raw.githubusercontent.com/phamthienit37/creat-sitemap-blogspot/main/phamthiencode" type="text/javascript"></script> <script src="/feeds/posts/summary?alt=json-in-script&amp;max-results=9999&amp;callback=loadtoc" type="text/javascript"></script>
+<script src="https://raw.githubusercontent.com/phamthienit37/creat-sitemap-blogspot/main/javascript" type="text/javascript"></script> <script src="/feeds/posts/summary?alt=json-in-script&amp;max-results=9999&amp;callback=loadtoc" type="text/javascript"></script>
 
 <style scoped="" type="text/css">
 #comments {display:none;}
